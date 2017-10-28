@@ -1,2 +1,2 @@
 # NETBIND
-Simple networking tool.
+Simple server/client socket based networking tool.
