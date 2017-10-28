@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/python
 import os,socket,argparse,sys
 '''
  _       ____  _    _     _  _          _
